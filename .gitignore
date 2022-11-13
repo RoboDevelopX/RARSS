@@ -1,0 +1,16 @@
+server/data/db
+server/data/raw
+server/data/sampled
+server/data/features
+server/data/windowed
+server/data/combined
+server/data_benchmark
+server/.idea/workspace.xml
+
+android/FYP/volley
+server/classifier/model
+docs/report
+tizen_key
+**/.idea
+**/.DS_Store
+**/__pycache__
